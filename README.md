@@ -2,6 +2,12 @@
 
 # Raspberry Pi Color Detecting Robot
 
+**Demo Video:**  
+[▶ Watch on YouTube](https://youtube.com/shorts/CE7qYdJ3vTQ?si=6YaLxQlvSn9ETpf-)
+
+**Demo Image:**  
+![Demo Image](screenshots/robotics.jpeg)
+
 A Raspberry Pi–powered robot that detects and tracks colored objects in real time using Python and OpenCV.  
 Designed with an SDK-style architecture.
 
