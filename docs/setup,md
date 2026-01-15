@@ -1,0 +1,13 @@
+# Setup Guide
+
+
+## 1. Prepare Raspberry Pi
+- Install Raspberry Pi OS
+- Enable camera: `sudo raspi-config`
+- Reboot
+
+
+## 2. System Dependencies
+```bash
+sudo apt update
+sudo apt install python3 python3-pip python3-opencv -y
